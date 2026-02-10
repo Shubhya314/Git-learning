@@ -6,3 +6,6 @@ console.log(login);
 
 const footer="added footer to our website";
 console.log(footer);
+
+const payment="integrated the payment gateway";
+console.log(payment);
